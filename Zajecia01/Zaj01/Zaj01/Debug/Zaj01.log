@@ -1,0 +1,4 @@
+﻿  Zaj01.cpp
+f:\studia\4 semestr\grafika\repo\zajecia01\zaj01\zaj01\zaj01.cpp(55): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\repo\zajecia01\zaj01\zaj01\zaj01.cpp(64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Zaj01.vcxproj -> F:\STUDIA\4 SEMESTR\Grafika\REPO\Zajecia01\Zaj01\Debug\Zaj01.exe
