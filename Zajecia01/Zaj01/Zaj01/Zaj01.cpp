@@ -60,8 +60,8 @@ void RenderScene(void) {
 	for (int i = 0; i <= triangleAmount; i++)
 	{
 		glVertex2f(
-			x_1 + (10.0*sin(i*twicePi / triangleAmount)) * 7,
-			y_1 + (10.0*cos(i*twicePi / triangleAmount)) * 7);
+			x_1 + (10.0*sin(i*twicePi / triangleAmount)) * 5,
+			y_1 + (10.0*cos(i*twicePi / triangleAmount)) * 5);
 	}
 	glEnd();
 	glFlush();
