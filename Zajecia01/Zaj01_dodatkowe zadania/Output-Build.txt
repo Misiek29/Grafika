@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Zaj01, Configuration: Debug Win32 ------
+1>  zad1.cpp
+1>  Zaj01.vcxproj -> F:\STUDIA\4 SEMESTR\Grafika\REPO\Zajecia01\Zaj01_dodatkowe zadania\Debug\Zaj01.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

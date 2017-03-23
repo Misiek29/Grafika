@@ -1,0 +1,4 @@
+﻿  zad2.cpp
+f:\studia\4 semestr\grafika\repo\zajecia01\zaj01_dodatkowe zadania\zad2\zad2.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\repo\zajecia01\zaj01_dodatkowe zadania\zad2\zad2.cpp(33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  zad2.vcxproj -> F:\STUDIA\4 SEMESTR\Grafika\REPO\Zajecia01\Zaj01_dodatkowe zadania\Debug\zad2.exe
