@@ -1,0 +1,9 @@
+﻿  Graphic_03a.cpp
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_03-master\graphic_03a\graphic_03a.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_03-master\graphic_03a\graphic_03a.cpp(156): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_03-master\graphic_03a\graphic_03a.cpp(161): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_03-master\graphic_03a\graphic_03a.cpp(222): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_03-master\graphic_03a\graphic_03a.cpp(224): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_03-master\graphic_03a\graphic_03a.cpp(226): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_03-master\graphic_03a\graphic_03a.cpp(228): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Graphic_03a.vcxproj -> F:\STUDIA\4 SEMESTR\Grafika\GRAFIKA WASYL\Graphic_03-master\x64\Debug\Graphic_03a.exe

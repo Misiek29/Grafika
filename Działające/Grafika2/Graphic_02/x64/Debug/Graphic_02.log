@@ -1,0 +1,4 @@
+﻿  Graphic_02a.cpp
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02\graphic_02a.cpp(42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02\graphic_02a.cpp(43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Graphic_02.vcxproj -> F:\STUDIA\4 SEMESTR\Grafika\GRAFIKA WASYL\Graphic_02-master\x64\Debug\Graphic_02a.exe

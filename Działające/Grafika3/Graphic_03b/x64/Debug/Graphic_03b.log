@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Graphic_03b.cpp
+f:\studia\4 semestr\grafika\repo\działające\grafika3\graphic_03b\graphic_03b.cpp(467): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\repo\działające\grafika3\graphic_03b\graphic_03b.cpp(472): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\repo\działające\grafika3\graphic_03b\graphic_03b.cpp(524): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\repo\działające\grafika3\graphic_03b\graphic_03b.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\repo\działające\grafika3\graphic_03b\graphic_03b.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\studia\4 semestr\grafika\repo\działające\grafika3\graphic_03b\graphic_03b.cpp(530): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Graphic_03b.vcxproj -> F:\STUDIA\4 SEMESTR\Grafika\REPO\Działające\Grafika3\x64\Debug\Graphic_03b.exe

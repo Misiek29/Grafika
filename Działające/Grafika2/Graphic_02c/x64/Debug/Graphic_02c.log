@@ -1,0 +1,8 @@
+﻿  Graphic_02c.cpp
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02c\graphic_02c.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02c\graphic_02c.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02c\graphic_02c.cpp(219): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02c\graphic_02c.cpp(219): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02c\graphic_02c.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+f:\studia\4 semestr\grafika\grafika wasyl\graphic_02-master\graphic_02c\graphic_02c.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+  Graphic_02c.vcxproj -> F:\STUDIA\4 SEMESTR\Grafika\GRAFIKA WASYL\Graphic_02-master\x64\Debug\Graphic_02c.exe
